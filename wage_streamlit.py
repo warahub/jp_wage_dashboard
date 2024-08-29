@@ -1,7 +1,7 @@
-import plotly.express as px
 import pandas as pd
 import streamlit as st
 import pydeck as pdk
+import plotly.express as px
 
 st.title('日本の賃金データダッシュボード')
 
